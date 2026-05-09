@@ -1,6 +1,6 @@
 <img width="3780" height="1890" alt="Green Illustration Minimalist Community Gathering Banner (1)" src="https://github.com/user-attachments/assets/8d3ae46a-81c8-41ed-ac48-7ee2fea3d2f1" />
 
-#  MACETAS - Sistema de Gestión para Emprendimiento
+#  MACETAS APP - Sistema de Gestión para Emprendimiento
 
 ##  Información del Proyecto
 
